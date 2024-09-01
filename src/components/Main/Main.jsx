@@ -6,6 +6,12 @@ import { Context } from '../../context/Context'
 
 const Main = () => {
 
+    window.setInterval(function() {
+    var elem = document.getElementById('data');
+    elem.scrollTop = elem.scrollHeight;
+    }, 5000);
+
+    
     const {onSent,recentPrompt,showResult,loading,resultData,setInput,input} = useContext(Context);
 
 
@@ -45,7 +51,7 @@ const Main = () => {
                 </div>
                 </div>
             </>:
-            <div className="result">
+            <div className="result" id='data'>
                 <div className="result-title">
                     <img src={assets.user_icon} alt="" />
                     <p>{recentPrompt}</p>
