@@ -1,8 +1,55 @@
-# React + Vite
+# Gemini-Clone — v1
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to Gemini-Clone! I’m Ranjithbabu, a front-end developer based in Tamil Nadu, and I’m thrilled to introduce you to my project. Gemini-Clone is a dynamic web application designed to provide users with efficient and up-to-date AI chat . This project integrates a sleek, user-friendly interface with robust backend functionality to deliver an engaging AI experience.
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Client: React.js, Javascript, HTML, CSS
+
+Hosting: Vercel
+
+## Screenshots 
+
+<img src="https://ibb.co/R21fPHZ" alt="Home page" />
+<img src="https://ibb.co/DYjRPs7" alt="Loading page" /> 
+<img src="https://ibb.co/JqH8fpL" alt="Result page" /> 
+
+
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Ranjithbabu0912/gemini-clone.git
+```
+
+Go to the project directory
+
+Install dependencies
+
+```bash
+  cd gemini-clone
+```
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+
+## Contributing & Usage
+Feel free to use or adapt the front-end code for your own AI-related projects. I encourage you to customize the theme and components to fit your needs. The content of this application is designed for showcases various AI-related features, reflecting my skills and capabilities.
+
+If you have any questions or need assistance, please don’t hesitate to reach out to me on [LinkedIn](https://www.linkedin.com/in/ranjithbabu0912/), [GitHub](https://github.com/Ranjithbabu0912). I’m always here to help!
+
+## License
+
+[MIT](https://github.com/Ranjithbabu0912/gemini-clone/blob/main/LICENSE)
+
