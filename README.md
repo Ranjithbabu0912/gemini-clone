@@ -9,13 +9,13 @@ Client: React.js, Javascript, HTML, CSS
 Hosting: Vercel
 
 ## Screenshots 
-
-<img src="https://github.com/user-attachments/assets/d5eefcec-b620-47d3-868d-ae0d729aa368.png" alt="Home page" />
-<img src="https://github.com/user-attachments/assets/070c7252-68a5-46b1-8e1a-e3b04853d769.png" alt="Loading page" /> 
-<img src="https://github.com/user-attachments/assets/60c2eb97-7db1-41eb-98dc-a56be73eedaa.png" alt="Result page" /> 
-
-![Loding Page](https://github.com/user-attachments/assets/495b76e4-af3d-4d35-8822-34e62bee33a8)
+HOME PAGE-
 ![Home Page](https://github.com/user-attachments/assets/15821623-2fa4-4291-9cee-94af8c12cee3)
+
+LOADING PAGE-
+![Loding Page](https://github.com/user-attachments/assets/495b76e4-af3d-4d35-8822-34e62bee33a8)
+
+RESULT PAGE-
 ![Result Page](https://github.com/user-attachments/assets/a4db4a56-6a85-4425-8153-6c8f1fde50df)
 
 
