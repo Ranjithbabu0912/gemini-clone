@@ -10,9 +10,9 @@ Hosting: Vercel
 
 ## Screenshots 
 
-<img src="![Screenshot (22)](https://github.com/user-attachments/assets/d5eefcec-b620-47d3-868d-ae0d729aa368)" alt="Home page" />
-<img src="![Screenshot (23)](https://github.com/user-attachments/assets/070c7252-68a5-46b1-8e1a-e3b04853d769)" alt="Loading page" /> 
-<img src="![Screenshot (24)](https://github.com/user-attachments/assets/60c2eb97-7db1-41eb-98dc-a56be73eedaa)" alt="Result page" /> 
+<img src="https://github.com/user-attachments/assets/d5eefcec-b620-47d3-868d-ae0d729aa368.png" alt="Home page" />
+<img src="https://github.com/user-attachments/assets/070c7252-68a5-46b1-8e1a-e3b04853d769.png" alt="Loading page" /> 
+<img src="https://github.com/user-attachments/assets/60c2eb97-7db1-41eb-98dc-a56be73eedaa.png" alt="Result page" /> 
 
 [View Live Demo](https://gemini-clone-ranjithbabu0912s-projects.vercel.app/)
 
