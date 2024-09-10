@@ -9,12 +9,18 @@ Client: React.js, Javascript, HTML, CSS
 Hosting: Vercel
 
 ## Screenshots 
+HOME PAGE-
+![Home Page](https://github.com/user-attachments/assets/15821623-2fa4-4291-9cee-94af8c12cee3)
 
-<img src="https://ibb.co/R21fPHZ" alt="Home page" />
-<img src="https://ibb.co/DYjRPs7" alt="Loading page" /> 
-<img src="https://ibb.co/JqH8fpL" alt="Result page" /> 
+LOADING PAGE-
+![Loding Page](https://github.com/user-attachments/assets/495b76e4-af3d-4d35-8822-34e62bee33a8)
+
+RESULT PAGE-
+![Result Page](https://github.com/user-attachments/assets/a4db4a56-6a85-4425-8153-6c8f1fde50df)
 
 
+
+[View Live Demo](https://gemini-clone-ranjithbabu0912s-projects.vercel.app/)
 
 
 ## Run Locally
