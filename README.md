@@ -14,7 +14,7 @@ Hosting: Vercel
 <img src="https://ibb.co/DYjRPs7" alt="Loading page" /> 
 <img src="https://ibb.co/JqH8fpL" alt="Result page" /> 
 
-
+[View Live Demo](https://gemini-clone-ranjithbabu0912s-projects.vercel.app/)
 
 
 ## Run Locally
