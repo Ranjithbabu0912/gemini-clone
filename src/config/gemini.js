@@ -1,6 +1,6 @@
 
 
-// const apikey = "AIzaSyAAfqwmIYTXlhGa51IHx7k2J9Oe-mU_mH8";
+// const apikey = "AIzaSyCQgNJzfPgzrv5J_muUrZtLHJ5ue7eGlP4";
 
 // Install the Generative AI SDK
 
@@ -15,7 +15,7 @@ import {
     HarmBlockThreshold,
   } from "@google/generative-ai";
   
-  const apiKey = "AIzaSyAAfqwmIYTXlhGa51IHx7k2J9Oe-mU_mH8";
+  const apiKey = "AIzaSyCQgNJzfPgzrv5J_muUrZtLHJ5ue7eGlP4";
   const genAI = new GoogleGenerativeAI(apiKey);
   
   const model = genAI.getGenerativeModel({

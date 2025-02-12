@@ -42,12 +42,12 @@
 .main .cards{
     display: grid;
     grid-template-columns: repeat(auto-fill,minmax(180px,1fr));
-    gap: 15px;
+    gap: 10px;
     padding: 20px;
 }
 
 .main .card {
-    height: 200px;
+    height: 130px;
     padding: 15px;
     background-color: #f0f4f9;
     border-radius: 10px;
@@ -91,7 +91,7 @@
     justify-content: space-between;
     gap: 20px;
     background-color: #f0f4f9;
-    padding: 10px 20px;
+    padding: 5px 20px;
     border-radius: 50px;
 }
 
@@ -253,5 +253,9 @@
     }
     .search-box div{
         gap: 5px;
+    }
+
+    .main .cards {
+        display: none;
     }
 }
